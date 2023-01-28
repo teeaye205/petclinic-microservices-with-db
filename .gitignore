@@ -21,17 +21,10 @@ generated/
 .factorypath
 .project
 
-<<<<<<< HEAD
-# Local .terraform directory
-**/.terraform
-
-# Terraform lockefile
-=======
 # Local .terraform directories
 **/.terraform/*
 
 # Terraform lockfile
->>>>>>> feature/msp-18
 .terraform.lock.hcl
 
 # .tfstate files
